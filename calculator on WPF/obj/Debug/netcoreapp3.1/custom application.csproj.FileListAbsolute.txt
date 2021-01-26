@@ -1,0 +1,21 @@
+A:\Programs\WPF_program\custom application\bin\Debug\netcoreapp3.1\custom application.exe
+A:\Programs\WPF_program\custom application\bin\Debug\netcoreapp3.1\custom application.deps.json
+A:\Programs\WPF_program\custom application\bin\Debug\netcoreapp3.1\custom application.runtimeconfig.json
+A:\Programs\WPF_program\custom application\bin\Debug\netcoreapp3.1\custom application.runtimeconfig.dev.json
+A:\Programs\WPF_program\custom application\bin\Debug\netcoreapp3.1\custom application.dll
+A:\Programs\WPF_program\custom application\bin\Debug\netcoreapp3.1\custom application.pdb
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.csprojAssemblyReference.cache
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\App.g.cs
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application_MarkupCompile.cache
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application_MarkupCompile.lref
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\MainWindow.baml
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.g.resources
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.AssemblyInfoInputs.cache
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.AssemblyInfo.cs
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.csproj.CoreCompileInputs.cache
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.dll
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.pdb
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\custom application.genruntimeconfig.cache
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\Window1.g.cs
+A:\Programs\WPF_program\custom application\obj\Debug\netcoreapp3.1\Window1.baml
